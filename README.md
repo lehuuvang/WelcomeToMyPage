@@ -1,8 +1,8 @@
 # 💫About Me :
-I hope to acquire new knowledge. 
-The opinion of others is a wonderful idea to help me make progress
-, and I thank everyone.
+I hope to acquire new knowledge. The opinion of others is a wonderful idea to help me make progress, and I thank everyone.
 My name is LeHuuVang, I'm .NET Backend
+My hobbies is work with computer everytime.I can play volleyball, somtimes listen to music in freetime
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vang.huu.3152) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@lehuuvang1) 
